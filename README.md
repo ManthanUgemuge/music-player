@@ -11,7 +11,7 @@
 - Download or clone the repository Website : 
 
 ```
-
+https://github.com/ManthanUgemuge/Music-Player.git
 ```
 - Run Directly - 
 
