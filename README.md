@@ -16,7 +16,7 @@ A Simple Application for playing Music.
 ```
 https://github.com/ManthanUgemuge/Music-Player.git
 ```
-- Run Directly - 
+- Run Directly - https://manthanugemuge.github.io/Music-Player/
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
