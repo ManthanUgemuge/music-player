@@ -12,7 +12,6 @@ A Simple Application for playing Music. (Some component not working)
 ## How to use Project
 
 - Download or clone the repository Website : 
-
 ```
 https://github.com/ManthanUgemuge/Music-Player.git
 ```
