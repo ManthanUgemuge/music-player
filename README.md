@@ -2,6 +2,7 @@
 A Simple Application for playing Music. (Some component not working)
 
 ## About the Project
+Playing Music
 
 ## Tech Stacks Used
 
