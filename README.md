@@ -1,5 +1,5 @@
 # Music-Player
-A Simple Application for playing Music. (Some component not working)
+A Simple Application for playing Music. (not working in-progress)
 
 ## About the Project
 Music Playing Application
