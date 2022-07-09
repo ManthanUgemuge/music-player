@@ -1,4 +1,4 @@
-# Music-Player
+# Music Player
 A Simple Application for playing Music. (not working in-progress).
 
 ## About the Project
