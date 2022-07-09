@@ -1,8 +1,8 @@
 # Music-Player
-A Simple Application for playing Music. (not working in-progress)
+A Simple Application for playing Music. (not working in-progress).
 
 ## About the Project
-Music Playing Application
+Music Playing Application using HTML, CSS & javaScript.
 
 ## Tech Stacks Used
 
