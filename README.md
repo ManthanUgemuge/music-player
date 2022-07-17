@@ -1,6 +1,5 @@
 # Music Player
-A Simple Application for playing Music.working in-progress.
-
+A Simple Application for playing Music.
 ## About the Project
 Music Playing Application using HTML, CSS & javaScript.
 
