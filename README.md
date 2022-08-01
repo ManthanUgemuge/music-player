@@ -15,7 +15,7 @@ A Music Playing Application using HTML, CSS & javaScript.
 ```
 https://github.com/ManthanUgemuge/Music-Player.git
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/Music-Player/)//[Dowmload]()
+- Run Directly - [Live](https://manthanugemuge.github.io/Music-Player/)//[Download]()
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
