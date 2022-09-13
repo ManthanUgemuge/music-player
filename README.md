@@ -17,7 +17,8 @@ https://github.com/ManthanUgemuge/Music-Player.git
 ```
 - Run Directly - [Live](https://manthanugemuge.github.io/Music-Player/)
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Music-Player/archive/refs/heads/main.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/ManthanUgemuge/Music-Player/archive/refs/heads/main.zip) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/Music-Player/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
